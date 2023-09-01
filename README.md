@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dustin1243
 - 👀 I’m interested in web development 
-- 🌱 I’m currently attending college and The Odin Project
+- 🌱 I’m currently attending college 
 - 📫 How to reach me Dolinger124@gmail.com
 
 <!---
